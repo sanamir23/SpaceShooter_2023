@@ -1,0 +1,7 @@
+gun,730
+KILL,600
+OLIVE,360
+hun,260
+kim,180
+tom,100
+
